@@ -7,7 +7,7 @@ configurar router de borde en laboraratorio FIT/IOT-LAB usando nodo openmote-b
 3.1. CREAR UN PAR DE CLAVES SSH
 escriba el siguiente comando en una terminal:
 
-you@yourpc:~$ ssh-keygen -t rsa
+# you@yourpc:~$ ssh-keygen -t rsa
 
 you@yourpc:~$ ls ~/.ssh/
 
